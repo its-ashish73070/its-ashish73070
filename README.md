@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ASHISH%20GUPTA&fontSize=55&fontColor=00F7FF&fontAlignY=38&desc=HACKER%20BY%20DAY%20%E2%80%A2%20DEVELOPER%20BY%20NIGHT&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,45:16104A,75:40105F,100:050510&height=230&section=header&text=%3E%20ASHISH_GUPTA&fontSize=52&fontColor=00F7FF&fontAlignY=40&desc=%5B%20SYSTEM%20INITIALIZED...%20WELCOME%20TO%20MY%20WORLD%20%5D&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Initializing+Ashish.exe...;Building+the+future+with+code+%F0%9F%9A%80;Web+Developer+%7C+Problem+Solver;Learning+%7C+Building+%7C+Breaking+Limits;Welcome+to+my+digital+workspace+%F0%9F%96%A5%EF%B8%8F" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=%3E+HACKER+BY+DAY+%7C+DEVELOPER+BY+NIGHT;%3E+BUILDING+%7C+BREAKING+%7C+LEARNING;%3E+WEB+DEVELOPER+%7C+AI+ENTHUSIAST;%3E+TURNING+IDEAS+INTO+REALITY...;%3E+ACCESS+GRANTED_" />
 </a>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=its-ashish73070&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=its-ashish73070&label=SYSTEM%20VISITORS&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
@@ -16,239 +16,281 @@
 
 <div align="center">
 
-### `> SYSTEM INITIALIZED_`
-
 <pre>
-╔══════════════════════════════════════════════════════╗
-║                 ASHISH.GUPTA.exe                    ║
-╠══════════════════════════════════════════════════════╣
-║ STATUS     : ONLINE                                  ║
-║ ROLE       : STUDENT • DEVELOPER                    ║
-║ MODE       : BUILDING                                ║
-║ LOCATION   : PUNE, INDIA                             ║
-║ MISSION    : TURNING IDEAS INTO DIGITAL PRODUCTS    ║
-╚══════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║        C O D E .   F I G H T .   C O N Q U E R .          ║
+║                                                            ║
+║        BUILD  →  BREAK  →  DEBUG  →  REBUILD              ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 </pre>
 
 </div>
 
-## ⚡ ABOUT ME
-
-<table>
-<tr>
-<td width="55%">
-
-### `whoami`
-
-I'm **Ashish Gupta**, a B.Tech student who loves turning ideas into real-world projects.
-
-- 💻 Exploring **Web Development**
-- 📊 Learning **Data Science**
-- ☕ Java enthusiast
-- 🤖 Interested in **AI & modern developer tools**
-- 🚀 Building projects and experimenting with new technologies
-- 🌱 Constantly learning something new
-- 🧠 Problem solving is part of the process
-
-</td>
-
-<td width="45%">
-
-<pre>
-┌─────────────────────────────┐
-│       DEVELOPER MODE        │
-├─────────────────────────────┤
-│                             │
-│  Code       █████████░ 90%  │
-│  Learning   ████████░░ 80%  │
-│  Creativity █████████░ 90%  │
-│  Debugging  ████████░░ 80%  │
-│                             │
-│  [ SYSTEM ONLINE ]          │
-│                             │
-└─────────────────────────────┘
-</pre>
-
-</td>
-</tr>
-</table>
-
 ---
-
-# 🛠️ TECH ARSENAL
 
 <div align="center">
 
-### 💻 Languages
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│                  A S H I S H . E X E                         │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  USER       : its-ashish73070                                │
+│  ALIAS      : The Code Explorer                              │
+│  STATUS     : ONLINE                                         │
+│  MODE       : DEVELOPER                                      │
+│  LOCATION   : Pune, India                                    │
+│                                                              │
+│  > CURRENT OBJECTIVE                                         │
+│    Build cool things. Learn fast. Break nothing.             │
+│                                                              │
+│  > INTERESTS                                                 │
+│    Web Development • AI • Data • Open Source                 │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+</pre>
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css&perline=6" />
+</div>
 
-### 🌐 Web Development
+# ⚡ `> ABOUT_ME`
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,express&perline=6" />
+<div align="center">
 
-### 🗄️ Database & Tools
+<pre>
+> Loading user profile...
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&perline=6" />
+NAME       : Ashish Gupta
+ROLE       : B.Tech Student
+FOCUS      : Web Development
+LEARNING   : Data Science + AI
+LOCATION   : Pune, India
+STATUS     : BUILDING...
+
+> Profile loaded successfully.
+</pre>
+
+</div>
+
+### `> CURRENTLY`
+
+- 💻 Building modern web applications
+- 🌐 Exploring frontend & full-stack development
+- 🤖 Exploring AI-powered applications
+- 📊 Learning Data Science
+- ☕ Practicing Java
+- 🚀 Working on personal & hackathon projects
+
+---
+
+# 🧠 `> TECH_ARSENAL`
+
+<div align="center">
+
+### `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css&perline=6"/>
+
+<br><br>
+
+### `WEB_DEVELOPMENT`
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,express&perline=6"/>
+
+<br><br>
+
+### `TOOLS_DATABASE`
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&perline=6"/>
 
 </div>
 
 ---
 
-# 🎯 CURRENT MISSION
+# 🎯 `> CURRENT_MISSION`
 
 <table align="center">
 <tr>
+
 <td align="center" width="25%">
 
 ### 🌐
+
 **WEB**
 
-Building modern  
-web experiences
+Modern  
+Web Apps
 
 </td>
 
 <td align="center" width="25%">
 
 ### 🤖
+
 **AI**
 
-Exploring AI-powered  
-applications
+AI Powered  
+Applications
 
 </td>
 
 <td align="center" width="25%">
 
 ### 📊
+
 **DATA**
 
-Learning data  
-science & analytics
+Data Science  
+& Analytics
 
 </td>
 
 <td align="center" width="25%">
 
 ### 🚀
+
 **BUILD**
 
-Turning ideas into  
-real projects
+Ideas →  
+Projects
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 💻 `> FEATURED_PROJECTS`
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 🎓 Campus Catalyst
+## 🎓 Campus Catalyst
 
-A modern platform built to bring useful campus resources and experiences together.
+> A modern campus-focused web platform.
 
-**Stack**
+**TECH**
 
-<img src="https://img.shields.io/badge/Frontend-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/UI-Web-00F7FF?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/WEB-00F7FF?style=flat-square"/>
 
-<br>
+<br><br>
 
 <a href="https://github.com/its-ashish73070/Campus_Catalyst">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/%3E_VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
 
 <td width="50%">
 
-### ☕ Java Project
+## ☕ Java Project
 
-A Java-based academic project created to practice core Java concepts and programming logic.
+> Java based academic project.
 
-**Stack**
+**TECH**
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 
-<br>
+<br><br>
 
 <a href="https://github.com/its-ashish73070/Java_Project">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/%3E_VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-### 💼 Portfolio
+## 💼 Portfolio
 
-My personal developer portfolio showcasing projects, skills and experience.
-
-**Stack**
-
-<img src="https://img.shields.io/badge/Web-Developer-302b63?style=flat-square" />
+> Personal developer portfolio.
 
 <br>
 
 <a href="https://github.com/its-ashish73070/Portfolio_Ashish">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/%3E_ACCESS_REPOSITORY-FF0080?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%">
 
-### 💬 Chatting
+## 💬 Chatting
 
-A communication-focused project built while exploring application development.
-
-**Stack**
-
-<img src="https://img.shields.io/badge/Development-Project-24243e?style=flat-square" />
+> Communication-focused development project.
 
 <br>
 
 <a href="https://github.com/its-ashish73070/Chatting">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/%3E_ACCESS_REPOSITORY-FF0080?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🧠 DEVELOPER MINDSET
+# 📡 `> SYSTEM_LOG`
 
 <div align="center">
 
 <pre>
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   "BUILD IT. BREAK IT. UNDERSTAND IT. IMPROVE IT."  ║
-║                                                      ║
-║   Learn → Experiment → Build → Fail → Debug → Grow  ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+[ 01 ] INITIALIZING DEVELOPER CORE ............. OK
+[ 02 ] LOADING WEB MODULE ...................... OK
+[ 03 ] LOADING JAVA MODULE ..................... OK
+[ 04 ] LOADING AI MODULE ....................... OK
+[ 05 ] CONNECTING TO GITHUB .................... OK
+[ 06 ] LEARNING MODE ........................... ACTIVE
+[ 07 ] BUILD MODE .............................. ACTIVE
+
+--------------------------------------------------
+
+SYSTEM STATUS : ONLINE
+THREAT LEVEL  : LOW
+CREATIVITY    : HIGH
+COFFEE        : REQUIRED ☕
+
+--------------------------------------------------
+
+> Ready to build something awesome.
 </pre>
 
 </div>
 
 ---
 
-# 📈 GITHUB ACTIVITY
+# 📊 `> GITHUB_ACTIVITY`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=its-ashish73070&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+<img src="https://streak-stats.demolab.com?user=its-ashish73070&theme=tokyonight&hide_border=true&background=050510&ring=00F7FF&fire=FF0080&currStreakLabel=00F7FF"/>
+
+</div>
+
+---
+
+# 🌐 `> CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/its-ashish73070">
+<img src="https://img.shields.io/badge/GITHUB-050510?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ashish-gupta-228598374/">
+<img src="https://img.shields.io/badge/LINKEDIN-050510?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+</a>
 
 </div>
 
@@ -256,23 +298,16 @@ A communication-focused project built while exploring application development.
 
 <div align="center">
 
-**Check the native GitHub contribution graph below to see my coding activity.**
+<pre>
+> CONNECTION ESTABLISHED
+> USER: ASHISH_GUPTA
+> CHANNEL: GITHUB
+> STATUS: ONLINE
 
-</div>
+"Code is not just written.
+ It is engineered, tested and evolved."
 
----
-
-# 🌐 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/its-ashish73070">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F7FF" />
-</a>
-
-<a href="https://www.linkedin.com/in/ashish-gupta-228598374/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</pre>
 
 </div>
 
@@ -280,8 +315,6 @@ A communication-focused project built while exploring application development.
 
 <div align="center">
 
-### `> END OF TRANSMISSION_`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,50:40105F,100:050510&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
