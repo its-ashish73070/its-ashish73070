@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2CFF,100:FF0080&height=220&section=header&text=ASHISH%20GUPTA&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=HACKER%20BY%20DAY%20%E2%80%A2%20DEVELOPER%20BY%20NIGHT&descAlignY=62&descSize=18&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ASHISH%20GUPTA&fontSize=55&fontColor=00F7FF&fontAlignY=38&desc=HACKER%20BY%20DAY%20%E2%80%A2%20DEVELOPER%20BY%20NIGHT&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+Ashish's+Digital+World+%F0%9F%96%A5%EF%B8%8F;B.Tech+Student+%7C+Developer+%7C+Builder;Web+Development+%7C+Data+Science;AI+%26+Automation+Explorer;Open+Source+Enthusiast;Turning+Ideas+Into+Reality+%F0%9F%9A%80"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Initializing+Ashish.exe...;Building+the+future+with+code+%F0%9F%9A%80;Web+Developer+%7C+Problem+Solver;Learning+%7C+Building+%7C+Breaking+Limits;Welcome+to+my+digital+workspace+%F0%9F%96%A5%EF%B8%8F" />
+</a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=its-ashish73070&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=its-ashish73070&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge" />
 
 </div>
 
@@ -14,60 +16,57 @@
 
 <div align="center">
 
-## ⚡ SYSTEM INITIALIZED
+### `> SYSTEM INITIALIZED_`
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=17&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=600&lines=%5B+SYSTEM+ONLINE+%5D;%5B+ACCESS+GRANTED+%5D;%5B+DEVELOPER+MODE+ACTIVATED+%5D;%5B+BUILDING+THE+FUTURE...+%5D"/>
+<pre>
+╔══════════════════════════════════════════════════════╗
+║                 ASHISH.GUPTA.exe                    ║
+╠══════════════════════════════════════════════════════╣
+║ STATUS     : ONLINE                                  ║
+║ ROLE       : STUDENT • DEVELOPER                    ║
+║ MODE       : BUILDING                                ║
+║ LOCATION   : PUNE, INDIA                             ║
+║ MISSION    : TURNING IDEAS INTO DIGITAL PRODUCTS    ║
+╚══════════════════════════════════════════════════════╝
+</pre>
 
 </div>
 
----
-
-# 👨‍💻 ABOUT ME
+## ⚡ ABOUT ME
 
 <table>
 <tr>
 <td width="55%">
 
-### 🧑‍💻 WHO AM I?
+### `whoami`
 
-🎓 **B.Tech Student**
+I'm **Ashish Gupta**, a B.Tech student who loves turning ideas into real-world projects.
 
-💻 Learning **Web Development**
-
-📊 Exploring **Data Science**
-
-🤖 Interested in **AI & Automation**
-
-🌐 **Open Source Enthusiast**
-
-🚀 Building real-world projects
-
-🧠 Always learning something new
-
-⚡ Turning ideas into working products
+- 💻 Exploring **Web Development**
+- 📊 Learning **Data Science**
+- ☕ Java enthusiast
+- 🤖 Interested in **AI & modern developer tools**
+- 🚀 Building projects and experimenting with new technologies
+- 🌱 Constantly learning something new
+- 🧠 Problem solving is part of the process
 
 </td>
 
 <td width="45%">
 
-### 🖥️ TERMINAL
-
 <pre>
-┌──────────────────────────────┐
-│  ASHISH@GITHUB ~ $ PROFILE   │
-├──────────────────────────────┤
-│                              │
-│  STATUS : ● ONLINE           │
-│  MODE   : DEVELOPER          │
-│  FOCUS  : WEB + AI + DATA    │
-│  LEVEL  : BUILDING           │
-│                              │
-│  > Code       [✓]            │
-│  > Build      [✓]            │
-│  > Deploy     [✓]            │
-│  > Repeat     [∞]            │
-│                              │
-└──────────────────────────────┘
+┌─────────────────────────────┐
+│       DEVELOPER MODE        │
+├─────────────────────────────┤
+│                             │
+│  Code       █████████░ 90%  │
+│  Learning   ████████░░ 80%  │
+│  Creativity █████████░ 90%  │
+│  Debugging  ████████░░ 80%  │
+│                             │
+│  [ SYSTEM ONLINE ]          │
+│                             │
+└─────────────────────────────┘
 </pre>
 
 </td>
@@ -76,182 +75,188 @@
 
 ---
 
-# ⚡ TECH ARSENAL
+# 🛠️ TECH ARSENAL
 
 <div align="center">
 
-### 💻 LANGUAGES
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css&perline=6"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css&perline=6" />
 
-<br><br>
+### 🌐 Web Development
 
-### 🚀 DEVELOPMENT
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,express&perline=6" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&perline=6"/>
+### 🗄️ Database & Tools
 
-<br><br>
-
-### 🗄️ DATABASE & TOOLS
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&perline=6" />
 
 </div>
 
 ---
 
-# 🧠 CURRENT MISSION
+# 🎯 CURRENT MISSION
 
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
-<td align="center">🎯<br><b>WEB DEVELOPMENT</b><br>🟢 ACTIVE</td>
-<td align="center">📊<br><b>DATA SCIENCE</b><br>🟢 LEARNING</td>
-<td align="center">🤖<br><b>ARTIFICIAL INTELLIGENCE</b><br>🟡 EXPLORING</td>
-<td align="center">🚀<br><b>PROJECT BUILDING</b><br>🔥 ALWAYS</td>
+<td align="center" width="25%">
+
+### 🌐
+**WEB**
+
+Building modern  
+web experiences
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+**AI**
+
+Exploring AI-powered  
+applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+**DATA**
+
+Learning data  
+science & analytics
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+**BUILD**
+
+Turning ideas into  
+real projects
+
+</td>
 </tr>
 </table>
-
-</div>
-
----
-
-# 📊 GITHUB MATRIX
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=its-ashish73070&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF0080&text_color=FFFFFF"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-ashish73070&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
-
-</div>
-
----
-
-# 🔥 CONTRIBUTION STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=its-ashish73070&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF0080&currStreakLabel=00F7FF"/>
-
-</div>
-
----
-
-# 🏆 GITHUB TROPHY ROOM
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=its-ashish73070&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
 
 ---
 
 # 🚀 FEATURED PROJECTS
 
-<div align="center">
-
-<a href="https://github.com/its-ashish73070/Campus_Catalyst">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=its-ashish73070&repo=Campus_Catalyst&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF0080"/>
-</a>
-
-<a href="https://github.com/its-ashish73070/Java_Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=its-ashish73070&repo=Java_Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF0080"/>
-</a>
-
-<a href="https://github.com/its-ashish73070/Portfolio_Ashish">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=its-ashish73070&repo=Portfolio_Ashish&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF0080"/>
-</a>
-
-<a href="https://github.com/its-ashish73070/Chatting">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=its-ashish73070&repo=Chatting&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF0080"/>
-</a>
-
-</div>
-
----
-
-# 📈 ACTIVITY GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-ashish73070&bg_color=0D1117&color=00F7FF&line=7B2CFF&point=FF0080&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🧩 PROJECT COMMAND CENTER
-
-<div align="center">
-
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="50%">
 
-### 🚀 CAMPUS CATALYST
+### 🎓 Campus Catalyst
 
-Campus-focused web platform
+A modern platform built to bring useful campus resources and experiences together.
 
-🟢 ACTIVE
+**Stack**
 
-</td>
+<img src="https://img.shields.io/badge/Frontend-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/UI-Web-00F7FF?style=flat-square" />
 
-<td align="center" width="25%">
+<br>
 
-### 💬 CHATTING
-
-Modern communication project
-
-🟢 BUILDING
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖 CHATGPT
-
-AI-powered interface
-
-🟡 EXPLORING
+<a href="https://github.com/its-ashish73070/Campus_Catalyst">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%">
 
-### ☕ JAVA PROJECT
+### ☕ Java Project
 
-Java academic project
+A Java-based academic project created to practice core Java concepts and programming logic.
 
-🟢 COMPLETE
+**Stack**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+
+<br>
+
+<a href="https://github.com/its-ashish73070/Java_Project">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💼 Portfolio
+
+My personal developer portfolio showcasing projects, skills and experience.
+
+**Stack**
+
+<img src="https://img.shields.io/badge/Web-Developer-302b63?style=flat-square" />
+
+<br>
+
+<a href="https://github.com/its-ashish73070/Portfolio_Ashish">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💬 Chatting
+
+A communication-focused project built while exploring application development.
+
+**Stack**
+
+<img src="https://img.shields.io/badge/Development-Project-24243e?style=flat-square" />
+
+<br>
+
+<a href="https://github.com/its-ashish73070/Chatting">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
 </td>
 </tr>
 </table>
 
+---
+
+# 🧠 DEVELOPER MINDSET
+
+<div align="center">
+
+<pre>
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   "BUILD IT. BREAK IT. UNDERSTAND IT. IMPROVE IT."  ║
+║                                                      ║
+║   Learn → Experiment → Build → Fail → Debug → Grow  ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+</pre>
+
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION MATRIX
+# 📈 GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=its-ashish73070&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<img src="https://streak-stats.demolab.com?user=its-ashish73070&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 
 </div>
 
----
-
-# 💡 DEVELOPER MINDSET
+<br>
 
 <div align="center">
 
-<h3>「 CODE • BUILD • BREAK • FIX • DEPLOY 」</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=900&color=FF0080&center=true&vCenter=true&width=650&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Deploy;Every+bug+is+another+level+unlocked+%F0%9F%8E%AE;Keep+building.+Keep+learning.+Keep+shipping."/>
+**Check the native GitHub contribution graph below to see my coding activity.**
 
 </div>
 
@@ -262,25 +267,21 @@ Java academic project
 <div align="center">
 
 <a href="https://github.com/its-ashish73070">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F7FF" />
 </a>
 
 <a href="https://www.linkedin.com/in/ashish-gupta-228598374/">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=SEE+YOU+IN+THE+MATRIX+%F0%9F%91%BE;SYSTEM+STATUS%3A+ONLINE+%E2%97%8F;ASHISH_GUPTA.exe+%E2%80%94+RUNNING"/>
+### `> END OF TRANSMISSION_`
 
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7B2CFF,100:00F7FF&height=130&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
